@@ -147,6 +147,7 @@
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
 - [The AI Act Clock](https://ascentis-ai.com/ai-act-clock/) - AI Act obligation and deadline questionnaire with an open JSON ruleset.
 - [EU AI Act Check](https://i6eal.de/eu-ai-act-check/) - German-language browser tool for preliminary AI Act risk classification and obligations.
+- [EU AI Act risk-tier checker (Unadhi)](https://mininglife7-dev.github.io/guides/eu-ai-act-risk-tier-checker.html) - Free client-side risk-tier self-check that lists each duty by role, article and start date.
 
 ## Open-Source Projects
 
